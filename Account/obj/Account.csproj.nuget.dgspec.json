@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natha\\Downloads\\Account\\Account\\Account.csproj": {}
+    "c:\\Users\\natha\\Downloads\\Account\\Account\\Account.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natha\\Downloads\\Account\\Account\\Account.csproj": {
+    "c:\\Users\\natha\\Downloads\\Account\\Account\\Account.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natha\\Downloads\\Account\\Account\\Account.csproj",
+        "projectUniqueName": "c:\\Users\\natha\\Downloads\\Account\\Account\\Account.csproj",
         "projectName": "Account",
-        "projectPath": "C:\\Users\\natha\\Downloads\\Account\\Account\\Account.csproj",
+        "projectPath": "c:\\Users\\natha\\Downloads\\Account\\Account\\Account.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natha\\Downloads\\Account\\Account\\obj\\",
+        "outputPath": "c:\\Users\\natha\\Downloads\\Account\\Account\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config"

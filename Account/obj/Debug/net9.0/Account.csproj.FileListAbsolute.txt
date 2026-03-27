@@ -12,3 +12,4 @@ c:\Users\natha\Downloads\Account\Account\obj\Debug\net9.0\refint\Account.dll
 c:\Users\natha\Downloads\Account\Account\obj\Debug\net9.0\Account.pdb
 c:\Users\natha\Downloads\Account\Account\obj\Debug\net9.0\Account.genruntimeconfig.cache
 c:\Users\natha\Downloads\Account\Account\obj\Debug\net9.0\ref\Account.dll
+c:\Users\natha\Downloads\Account\Account\obj\Debug\net9.0\Account.sourcelink.json
