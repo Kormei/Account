@@ -25,7 +25,8 @@ public class Account
     public void Show()
     {
         Console.WriteLine($"The balance for {Owner} is {_balance}.");
-        Console.WriteLine("This is my additional message!");
+        Console.WriteLine($"This is my additional message!");
+        Console.WriteLine($"This is my third message!");
     }
     public void Deposit(float depositAmount)
     {
