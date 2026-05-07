@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\natha\\Downloads\\Account\\Account\\Account.csproj": {}
+    "C:\\Users\\natha\\Downloads\\Account-1\\Account\\Account.csproj": {}
   },
   "projects": {
-    "c:\\Users\\natha\\Downloads\\Account\\Account\\Account.csproj": {
+    "C:\\Users\\natha\\Downloads\\Account-1\\Account\\Account.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\natha\\Downloads\\Account\\Account\\Account.csproj",
+        "projectUniqueName": "C:\\Users\\natha\\Downloads\\Account-1\\Account\\Account.csproj",
         "projectName": "Account",
-        "projectPath": "c:\\Users\\natha\\Downloads\\Account\\Account\\Account.csproj",
+        "projectPath": "C:\\Users\\natha\\Downloads\\Account-1\\Account\\Account.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\natha\\Downloads\\Account\\Account\\obj\\",
+        "outputPath": "C:\\Users\\natha\\Downloads\\Account-1\\Account\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -54,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.14, 9.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[9.0.14, 9.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.14, 9.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.14, 9.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
